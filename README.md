@@ -1,2 +1,2 @@
 # Barcode_Scan_ML
-Project code
+Final version of barcode scanner and web scaper
